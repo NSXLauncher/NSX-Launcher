@@ -18,11 +18,9 @@ Ao abrir o aplicativo, você será recebido pela tela de login. Aqui, os usuári
 - @: Um identificador exclusivo para cada usuário.
 - Senha: Para proteger a conta do usuário.
 
-Além dessas informações, cada personagem será associado a uma conta específica. Portanto, o usuário também precisará criar um @ específico para a conta.
-
 Cada usuário terá a capacidade de criar até 3 personagens simultaneamente de forma gratuita. No entanto, futuramente, será possível aumentar esses slots de personagens através de recursos adicionais, como ser um VIP ou usando a moeda do jogo.
 
-## Informações do Personagem
+## Informações Adic. do Personagem
 
 Após a criação do personagem, algumas informações serão adicionadas automaticamente. Essas informações incluem:
 
