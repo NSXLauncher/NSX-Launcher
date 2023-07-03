@@ -6,12 +6,17 @@ Bem-vindo ao NSX Launcher: Initial X, extensão do RPG de Naruto! Este aplicativ
 
 Ao abrir o aplicativo, você será recebido pela tela de login. Aqui, os usuários têm a opção de se registrar e criar um novo personagem. Durante o registro, serão solicitadas as seguintes informações:
 
+### Para o Personagem
+
+- Nome do personagem: O nome do seu personagem dentro do universo do jogo.
+- Clã: Escolha o clã ninja a que o personagem pertencerá.
+- Vila: Escolha a vila ninja à qual o personagem pertencerá.
+- Foto de aparência: Escolha uma foto para representar a aparência do seu personagem.
+
+### Para o Usuário
+
 - @: Um identificador exclusivo para cada usuário.
 - Senha: Para proteger a conta do usuário.
-- Vila: Escolha a vila ninja à qual o personagem pertencerá.
-- Clã: Escolha o clã ninja a que o personagem pertencerá.
-- Nome do personagem: O nome do seu personagem dentro do universo do jogo.
-- Foto de aparência: Escolha uma foto para representar a aparência do seu personagem.
 
 Além dessas informações, cada personagem será associado a uma conta específica. Portanto, o usuário também precisará criar um @ específico para a conta.
 
