@@ -48,9 +48,7 @@ O aplicativo contará com um mercado onde os ninjas poderão comercializar itens
 
 Haverá rankings dos ninjas mais ricos, ninjas com mais XP, ninjas com mais linhas e ninjas com mais jutsus. Esses rankings serão atualizados automaticamente e exibidos no aplicativo. Os jogadores poderão competir entre si para alcançar as primeiras posições nos rankings.
 
-### Calculadora de Recompens
-
-as de Missão
+### Calculadora de Recompensas de Missão
 
 Uma calculadora de recompensas de missão estará disponível no aplicativo. Ela fornecerá informações sobre as recompensas potenciais que os jogadores podem obter ao realizar determinadas missões. Isso ajudará os jogadores a tomar decisões estratégicas em relação às suas atividades no jogo.
 
