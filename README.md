@@ -48,8 +48,6 @@ Bem-vindo ao aplicativo de RPG de Naruto! Este aplicativo foi desenvolvido para 
 - A IA fornecerá suporte e orientações para melhorar a experiência de jogo dos jogadores.
 - Você poderá obter respostas rápidas e precisas sobre suas dúvidas e questões relacionadas ao jogo.
 
-## Conclus
-
-ão
+## Conclusão
 
 O aplicativo de RPG de Naruto é uma ferramenta poderosa para aprimorar sua experiência no RPG de WhatsApp. Com recursos como tela de login, gerenciamento de personagens, mercado de ninjas, rankings, calculadora, títulos e personalização VIP, além do suporte de IA, você terá acesso a uma variedade de funcionalidades que enriquecerão sua jornada ninja. Baixe o aplicativo agora mesmo e mergulhe em um mundo repleto de aventuras emocionantes!
